@@ -10,3 +10,25 @@
     background-size:cover;
     height: 109vh;
 }
+
+.navbar{
+    width: 1200px;
+    height: 750px;
+    margin:auto;
+}
+
+.icon{
+    width: 200px;
+    float: left;
+    height: 70px;
+
+}
+
+.logo{
+    color:rgb(45, 69, 25);
+    font-size: 35px;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+}
