@@ -67,9 +67,9 @@ ul li a:hover{
 }
 
 .search{
-    width: 20px;
+    width: 330px;
     float: left;
-    margin-left: 200px;
+    margin-left: 270px;
 }
 
 .srch{
@@ -78,7 +78,7 @@ ul li a:hover{
     height: 40px;
     background: transparent;
     border: 1px solid pink;
-    margin-top: 10px;
+    margin-top: 13px;
     color: white;
     border-right: none;
     font-size: 16px;
@@ -91,7 +91,7 @@ ul li a:hover{
 }
 
 .btn{
-    width: 100%;
+    width: 100px;
     height: 40px;
     background: pink;
     border: 2px solid pink;
@@ -99,6 +99,14 @@ ul li a:hover{
     color: white;
     font-size: 15px;
     border-bottom-left-radius: 5px;
-    border-top-left-radius: 5px;
+    border-bottom-left-radius: 5px;
 
+}
+
+.btn:focus{
+    outline: none;
+}
+
+.srch:focus{
+    outline: none;
 }
