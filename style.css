@@ -53,3 +53,15 @@ ul li{
     margin-top: 27px;
     font-size: 14px;
 }
+
+ul li a{
+    text-decoration: none;
+    color: white;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+
+ul li a:hover{
+    color: aquamarine;
+}
