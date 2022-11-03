@@ -110,3 +110,18 @@ ul li a:hover{
 .srch:focus{
     outline: none;
 }
+
+#top {
+    position: absolute;
+    bottom: 100;
+    left: 100;
+  }
+
+.content{
+    width: 1200px;
+    height: auto;
+    margin: auto;
+    color: white;
+    position: relative;
+
+}
