@@ -184,4 +184,32 @@ ul li a:hover{
     left:870px;
     border-radius: 10px;
     padding: 25px;
+
+}
+
+.form h2{
+    width: 220px;
+    font-family: sans-serif;
+    text-align: center;
+    color:lawngreen;
+    font-size: 20px;
+    background-color: lightcoral;
+    border-radius: 10px;
+    margin: 2px;
+    padding: 8px;
+
+}
+
+.form input{
+    width: 240px;
+    height: 35px;
+    background: transparent;
+    border-top: none;
+    border-right: none;
+    border-left: none;
+    color:azure;
+    font-size: 15px;
+    letter-spacing: 1px;
+    margin-top: 30px;
+    font-family: sans-serif;
 }
