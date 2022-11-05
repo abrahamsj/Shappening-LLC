@@ -213,3 +213,66 @@ ul li a:hover{
     margin-top: 30px;
     font-family: sans-serif;
 }
+
+.form input:focus{
+    outline: none;
+}
+
+::placeholder{
+    color:white;
+    font-family: Arial;
+
+}
+
+.btnn{
+    width: 240px;
+    height: 40px;
+    background-color: lightgreen;
+    border:none;
+    margin-top: 30px;
+    font-size: 18px;
+    border-radius: 10px;
+    cursor: pointer;
+    color:white;
+    transition: 0.4s ease;
+}
+
+.btnn:hover{
+    background: white;
+    color: lightgreen;
+}
+
+.btnn a{
+    text-decoration: none;
+    color: lightcoral;
+    font-weight: bold;
+}
+
+.form .link{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 17px;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.form .link a{
+    text-decoration: none;
+    color:pink;
+}
+
+.liw{
+    padding-top: 15px;
+    padding-bottom: 10px;
+    text-align:center;
+}
+
+
+.icons a{
+    text-decoration: none;
+    color: white;
+}
+
+.icons ion-icon{
+    color: white;
+
+}
