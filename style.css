@@ -145,7 +145,7 @@ ul li a:hover{
     letter-spacing: 2px;
 }
 
-.content.cn{
+.content .cn{
     width: 160px;
     height: 40px;
     background:lightskyblue;
@@ -159,7 +159,7 @@ ul li a:hover{
 
 }
 
-.content.cn a{
+.content .cn a{
     text-decoration: none;
     color: black;
     transition: 0.3s ease;
